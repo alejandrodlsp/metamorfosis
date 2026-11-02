@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="640" viewBox="0 0 512 640">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff758f"/><stop offset="1" stop-color="#1b1030"/></linearGradient>
+    <radialGradient id="r" cx="50%" cy="35%" r="60%"><stop offset="0" stop-color="#ffffff" stop-opacity=".35"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="512" height="640" rx="40" fill="url(#g)"/>
+  <rect width="512" height="640" rx="40" fill="url(#r)"/>
+  <rect x="14" y="14" width="484" height="612" rx="30" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width="4" stroke-dasharray="14 10"/>
+  <circle cx="256" cy="230" r="92" fill="#fff" fill-opacity=".22"/>
+  <path d="M96 520 C96 380 190 330 256 330 C322 330 416 380 416 520 Z" fill="#fff" fill-opacity=".22"/>
+  <text x="256" y="470" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#fff" fill-opacity=".85">PLACEHOLDER</text>
+  <text x="256" y="570" font-family="Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle" fill="#fff">Romántico</text>
+  <text x="256" y="604" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#fff" fill-opacity=".7">Romantic</text>
+</svg>

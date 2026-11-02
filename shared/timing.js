@@ -1,0 +1,23 @@
+// Duración base (ms) de la pausa tras cada evento visual, usada por el servidor para dar ritmo a la partida.
+export const EVENT_MS = {
+  TURN_START: 350,
+  DICE: 1250,
+  MOVE_STEP: 210,
+  MOVE_BASE: 300,
+  TELEPORT: 1100,
+  SWAP: 1200,
+  TRIP: 1100,
+  RECOVER: 700,
+  STAR: 1000,
+  ELIM: 1500,
+  FINISH: 1800,
+  SHIELD: 800,
+  ABILITY: 1300,
+  BOARD: 700,
+  CHIP: 800,
+  ORDER: 900,
+  EXTRA_TURN: 900,
+  MOD: 400,
+  RACE_START: 1500,
+  RACE_OVER: 1500,
+};

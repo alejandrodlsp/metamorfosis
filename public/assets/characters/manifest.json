@@ -1,0 +1,182 @@
+{
+  "alchemist": {
+    "portrait": "alchemist.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "blimp": {
+    "portrait": "blimp.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "coach": {
+    "portrait": "coach.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "babayaga": {
+    "portrait": "babayaga.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "centaur": {
+    "portrait": "centaur.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "banana": {
+    "portrait": "banana.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "cheerleader": {
+    "portrait": "cheerleader.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "duelist": {
+    "portrait": "duelist.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "hare": {
+    "portrait": "hare.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "hypnotist": {
+    "portrait": "hypnotist.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "legs": {
+    "portrait": "legs.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "magician": {
+    "portrait": "magician.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "rocket": {
+    "portrait": "rocket.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "hugebaby": {
+    "portrait": "hugebaby.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "mouth": {
+    "portrait": "mouth.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "copycat": {
+    "portrait": "copycat.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "dicemonger": {
+    "portrait": "dicemonger.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "genius": {
+    "portrait": "genius.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "heckler": {
+    "portrait": "heckler.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "egg": {
+    "portrait": "egg.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "gunk": {
+    "portrait": "gunk.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "flipflop": {
+    "portrait": "flipflop.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "inchworm": {
+    "portrait": "inchworm.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "mastermind": {
+    "portrait": "mastermind.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "lackey": {
+    "portrait": "lackey.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "loveableloser": {
+    "portrait": "loveableloser.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "leaptoad": {
+    "portrait": "leaptoad.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "partyanimal": {
+    "portrait": "partyanimal.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "sisyphus": {
+    "portrait": "sisyphus.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "romantic": {
+    "portrait": "romantic.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "scoocher": {
+    "portrait": "scoocher.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "stickler": {
+    "portrait": "stickler.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "suckerfish": {
+    "portrait": "suckerfish.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "thirdwheel": {
+    "portrait": "thirdwheel.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "twin": {
+    "portrait": "twin.svg",
+    "model": null,
+    "modelScale": 1
+  },
+  "skipper": {
+    "portrait": "skipper.svg",
+    "model": null,
+    "modelScale": 1
+  }
+}

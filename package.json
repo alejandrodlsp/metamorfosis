@@ -1,0 +1,25 @@
+{
+  "name": "carrera-de-los-mil-prodigios",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Carreras fantásticas por turnos, multijugador web con salas (three.js + WebSocket).",
+  "scripts": {
+    "dev": "concurrently -k -n server,client \"node --watch server/index.js\" \"vite\"",
+    "dev:server": "node --watch server/index.js",
+    "dev:client": "vite",
+    "build": "vite build",
+    "start": "node server/index.js",
+    "serve": "vite build && node server/index.js",
+    "test": "node tests/engine.test.js",
+    "placeholders": "node scripts/gen-placeholders.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0",
+    "three": "^0.170.0",
+    "vite": "^6.0.0"
+  }
+}
